@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    int i = 0;
+    int i = 5;
     while(true)
     {
-       cout << "Hello World!" << i++ << endl;
+       cout << "Hello muutettu" << i++ <<endl;
     }
     return 0;
 }
